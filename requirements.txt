@@ -1,0 +1,17 @@
+pandas
+tensorflow
+scikit-learn
+torch
+# transformers   # install from GitHub
+numpy
+matplotlib
+
+langchain
+# llama_index
+datasets
+loralib
+sentencepiece
+# bitsandbytes     # pip install 0.43.3 from GitHub repo
+accelerate
+xformers
+einops
