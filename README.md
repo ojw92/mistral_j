@@ -12,3 +12,7 @@ Some of the short-term/long-term goals for this project are:
 - implementation of NVIDIA's Riva for speech-to-text/text-to-speech feature
 - development of personalized foreign language tutor using Riva
 - ... and more
+
+## Contact
+If there are any questions or suggestions for improving this repository, please do not hesitate to contact me at joh78@gatech.edu.
+Thank you.
